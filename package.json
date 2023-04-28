@@ -19,7 +19,7 @@
     "css-loader": "^4.2.1",
     "html-webpack-plugin": "^4.3.0",
     "msal": "^1.4.4",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-dropzone": "^11.2.4",
